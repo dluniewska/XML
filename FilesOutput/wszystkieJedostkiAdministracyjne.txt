@@ -1,0 +1,244 @@
+1. ZACHODNIOPOMORSKIE; białogardzki; powiat
+2. ZACHODNIOPOMORSKIE; Białogard; gmina miejska
+3. ZACHODNIOPOMORSKIE; Białogard; gmina wiejska
+4. ZACHODNIOPOMORSKIE; Karlino; gmina miejsko-wiejska
+5. ZACHODNIOPOMORSKIE; Karlino; miasto
+6. ZACHODNIOPOMORSKIE; Karlino; obszar wiejski
+7. ZACHODNIOPOMORSKIE; Tychowo; gmina miejsko-wiejska
+8. ZACHODNIOPOMORSKIE; Tychowo; miasto
+9. ZACHODNIOPOMORSKIE; Tychowo; obszar wiejski
+10. ZACHODNIOPOMORSKIE; choszczeński; powiat
+11. ZACHODNIOPOMORSKIE; Bierzwnik; gmina wiejska
+12. ZACHODNIOPOMORSKIE; Choszczno; gmina miejsko-wiejska
+13. ZACHODNIOPOMORSKIE; Choszczno; miasto
+14. ZACHODNIOPOMORSKIE; Choszczno; obszar wiejski
+15. ZACHODNIOPOMORSKIE; Drawno; gmina miejsko-wiejska
+16. ZACHODNIOPOMORSKIE; Drawno; miasto
+17. ZACHODNIOPOMORSKIE; Drawno; obszar wiejski
+18. ZACHODNIOPOMORSKIE; Krzęcin; gmina wiejska
+19. ZACHODNIOPOMORSKIE; Pełczyce; gmina miejsko-wiejska
+20. ZACHODNIOPOMORSKIE; Pełczyce; miasto
+21. ZACHODNIOPOMORSKIE; Pełczyce; obszar wiejski
+22. ZACHODNIOPOMORSKIE; Recz; gmina miejsko-wiejska
+23. ZACHODNIOPOMORSKIE; Recz; miasto
+24. ZACHODNIOPOMORSKIE; Recz; obszar wiejski
+25. ZACHODNIOPOMORSKIE; drawski; powiat
+26. ZACHODNIOPOMORSKIE; Czaplinek; gmina miejsko-wiejska
+27. ZACHODNIOPOMORSKIE; Czaplinek; miasto
+28. ZACHODNIOPOMORSKIE; Czaplinek; obszar wiejski
+29. ZACHODNIOPOMORSKIE; Drawsko Pomorskie; gmina miejsko-wiejska
+30. ZACHODNIOPOMORSKIE; Drawsko Pomorskie; miasto
+31. ZACHODNIOPOMORSKIE; Drawsko Pomorskie; obszar wiejski
+32. ZACHODNIOPOMORSKIE; Kalisz Pomorski; gmina miejsko-wiejska
+33. ZACHODNIOPOMORSKIE; Kalisz Pomorski; miasto
+34. ZACHODNIOPOMORSKIE; Kalisz Pomorski; obszar wiejski
+35. ZACHODNIOPOMORSKIE; Wierzchowo; gmina wiejska
+36. ZACHODNIOPOMORSKIE; Złocieniec; gmina miejsko-wiejska
+37. ZACHODNIOPOMORSKIE; Złocieniec; miasto
+38. ZACHODNIOPOMORSKIE; Złocieniec; obszar wiejski
+39. ZACHODNIOPOMORSKIE; goleniowski; powiat
+40. ZACHODNIOPOMORSKIE; Goleniów; gmina miejsko-wiejska
+41. ZACHODNIOPOMORSKIE; Goleniów; miasto
+42. ZACHODNIOPOMORSKIE; Goleniów; obszar wiejski
+43. ZACHODNIOPOMORSKIE; Maszewo; gmina miejsko-wiejska
+44. ZACHODNIOPOMORSKIE; Maszewo; miasto
+45. ZACHODNIOPOMORSKIE; Maszewo; obszar wiejski
+46. ZACHODNIOPOMORSKIE; Nowogard; gmina miejsko-wiejska
+47. ZACHODNIOPOMORSKIE; Nowogard; miasto
+48. ZACHODNIOPOMORSKIE; Nowogard; obszar wiejski
+49. ZACHODNIOPOMORSKIE; Osina; gmina wiejska
+50. ZACHODNIOPOMORSKIE; Przybiernów; gmina wiejska
+51. ZACHODNIOPOMORSKIE; Stepnica; gmina miejsko-wiejska
+52. ZACHODNIOPOMORSKIE; Stepnica; miasto
+53. ZACHODNIOPOMORSKIE; Stepnica; obszar wiejski
+54. ZACHODNIOPOMORSKIE; gryficki; powiat
+55. ZACHODNIOPOMORSKIE; Brojce; gmina wiejska
+56. ZACHODNIOPOMORSKIE; Gryfice; gmina miejsko-wiejska
+57. ZACHODNIOPOMORSKIE; Gryfice; miasto
+58. ZACHODNIOPOMORSKIE; Gryfice; obszar wiejski
+59. ZACHODNIOPOMORSKIE; Karnice; gmina wiejska
+60. ZACHODNIOPOMORSKIE; Płoty; gmina miejsko-wiejska
+61. ZACHODNIOPOMORSKIE; Płoty; miasto
+62. ZACHODNIOPOMORSKIE; Płoty; obszar wiejski
+63. ZACHODNIOPOMORSKIE; Rewal; gmina wiejska
+64. ZACHODNIOPOMORSKIE; Trzebiatów; gmina miejsko-wiejska
+65. ZACHODNIOPOMORSKIE; Trzebiatów; miasto
+66. ZACHODNIOPOMORSKIE; Trzebiatów; obszar wiejski
+67. ZACHODNIOPOMORSKIE; gryfiński; powiat
+68. ZACHODNIOPOMORSKIE; Banie; gmina wiejska
+69. ZACHODNIOPOMORSKIE; Cedynia; gmina miejsko-wiejska
+70. ZACHODNIOPOMORSKIE; Cedynia; miasto
+71. ZACHODNIOPOMORSKIE; Cedynia; obszar wiejski
+72. ZACHODNIOPOMORSKIE; Chojna; gmina miejsko-wiejska
+73. ZACHODNIOPOMORSKIE; Chojna; miasto
+74. ZACHODNIOPOMORSKIE; Chojna; obszar wiejski
+75. ZACHODNIOPOMORSKIE; Gryfino; gmina miejsko-wiejska
+76. ZACHODNIOPOMORSKIE; Gryfino; miasto
+77. ZACHODNIOPOMORSKIE; Gryfino; obszar wiejski
+78. ZACHODNIOPOMORSKIE; Mieszkowice; gmina miejsko-wiejska
+79. ZACHODNIOPOMORSKIE; Mieszkowice; miasto
+80. ZACHODNIOPOMORSKIE; Mieszkowice; obszar wiejski
+81. ZACHODNIOPOMORSKIE; Moryń; gmina miejsko-wiejska
+82. ZACHODNIOPOMORSKIE; Moryń; miasto
+83. ZACHODNIOPOMORSKIE; Moryń; obszar wiejski
+84. ZACHODNIOPOMORSKIE; Stare Czarnowo; gmina wiejska
+85. ZACHODNIOPOMORSKIE; Trzcińsko-Zdrój; gmina miejsko-wiejska
+86. ZACHODNIOPOMORSKIE; Trzcińsko-Zdrój; miasto
+87. ZACHODNIOPOMORSKIE; Trzcińsko-Zdrój; obszar wiejski
+88. ZACHODNIOPOMORSKIE; Widuchowa; gmina wiejska
+89. ZACHODNIOPOMORSKIE; kamieński; powiat
+90. ZACHODNIOPOMORSKIE; Dziwnów; gmina miejsko-wiejska
+91. ZACHODNIOPOMORSKIE; Dziwnów; miasto
+92. ZACHODNIOPOMORSKIE; Dziwnów; obszar wiejski
+93. ZACHODNIOPOMORSKIE; Golczewo; gmina miejsko-wiejska
+94. ZACHODNIOPOMORSKIE; Golczewo; miasto
+95. ZACHODNIOPOMORSKIE; Golczewo; obszar wiejski
+96. ZACHODNIOPOMORSKIE; Kamień Pomorski; gmina miejsko-wiejska
+97. ZACHODNIOPOMORSKIE; Kamień Pomorski; miasto
+98. ZACHODNIOPOMORSKIE; Kamień Pomorski; obszar wiejski
+99. ZACHODNIOPOMORSKIE; Międzyzdroje; gmina miejsko-wiejska
+100. ZACHODNIOPOMORSKIE; Międzyzdroje; miasto
+101. ZACHODNIOPOMORSKIE; Międzyzdroje; obszar wiejski
+102. ZACHODNIOPOMORSKIE; Świerzno; gmina wiejska
+103. ZACHODNIOPOMORSKIE; Wolin; gmina miejsko-wiejska
+104. ZACHODNIOPOMORSKIE; Wolin; miasto
+105. ZACHODNIOPOMORSKIE; Wolin; obszar wiejski
+106. ZACHODNIOPOMORSKIE; kołobrzeski; powiat
+107. ZACHODNIOPOMORSKIE; Kołobrzeg; gmina miejska
+108. ZACHODNIOPOMORSKIE; Dygowo; gmina wiejska
+109. ZACHODNIOPOMORSKIE; Gościno; gmina miejsko-wiejska
+110. ZACHODNIOPOMORSKIE; Gościno; miasto
+111. ZACHODNIOPOMORSKIE; Gościno; obszar wiejski
+112. ZACHODNIOPOMORSKIE; Kołobrzeg; gmina wiejska
+113. ZACHODNIOPOMORSKIE; Rymań; gmina wiejska
+114. ZACHODNIOPOMORSKIE; Siemyśl; gmina wiejska
+115. ZACHODNIOPOMORSKIE; Ustronie Morskie; gmina wiejska
+116. ZACHODNIOPOMORSKIE; koszaliński; powiat
+117. ZACHODNIOPOMORSKIE; Będzino; gmina wiejska
+118. ZACHODNIOPOMORSKIE; Biesiekierz; gmina wiejska
+119. ZACHODNIOPOMORSKIE; Bobolice; gmina miejsko-wiejska
+120. ZACHODNIOPOMORSKIE; Bobolice; miasto
+121. ZACHODNIOPOMORSKIE; Bobolice; obszar wiejski
+122. ZACHODNIOPOMORSKIE; Manowo; gmina wiejska
+123. ZACHODNIOPOMORSKIE; Mielno; gmina miejsko-wiejska
+124. ZACHODNIOPOMORSKIE; Mielno; miasto
+125. ZACHODNIOPOMORSKIE; Mielno; obszar wiejski
+126. ZACHODNIOPOMORSKIE; Polanów; gmina miejsko-wiejska
+127. ZACHODNIOPOMORSKIE; Polanów; miasto
+128. ZACHODNIOPOMORSKIE; Polanów; obszar wiejski
+129. ZACHODNIOPOMORSKIE; Sianów; gmina miejsko-wiejska
+130. ZACHODNIOPOMORSKIE; Sianów; miasto
+131. ZACHODNIOPOMORSKIE; Sianów; obszar wiejski
+132. ZACHODNIOPOMORSKIE; Świeszyno; gmina wiejska
+133. ZACHODNIOPOMORSKIE; myśliborski; powiat
+134. ZACHODNIOPOMORSKIE; Barlinek; gmina miejsko-wiejska
+135. ZACHODNIOPOMORSKIE; Barlinek; miasto
+136. ZACHODNIOPOMORSKIE; Barlinek; obszar wiejski
+137. ZACHODNIOPOMORSKIE; Boleszkowice; gmina wiejska
+138. ZACHODNIOPOMORSKIE; Dębno; gmina miejsko-wiejska
+139. ZACHODNIOPOMORSKIE; Dębno; miasto
+140. ZACHODNIOPOMORSKIE; Dębno; obszar wiejski
+141. ZACHODNIOPOMORSKIE; Myślibórz; gmina miejsko-wiejska
+142. ZACHODNIOPOMORSKIE; Myślibórz; miasto
+143. ZACHODNIOPOMORSKIE; Myślibórz; obszar wiejski
+144. ZACHODNIOPOMORSKIE; Nowogródek Pomorski; gmina wiejska
+145. ZACHODNIOPOMORSKIE; policki; powiat
+146. ZACHODNIOPOMORSKIE; Dobra (Szczecińska); gmina wiejska
+147. ZACHODNIOPOMORSKIE; Kołbaskowo; gmina wiejska
+148. ZACHODNIOPOMORSKIE; Nowe Warpno; gmina miejsko-wiejska
+149. ZACHODNIOPOMORSKIE; Nowe Warpno; miasto
+150. ZACHODNIOPOMORSKIE; Nowe Warpno; obszar wiejski
+151. ZACHODNIOPOMORSKIE; Police; gmina miejsko-wiejska
+152. ZACHODNIOPOMORSKIE; Police; miasto
+153. ZACHODNIOPOMORSKIE; Police; obszar wiejski
+154. ZACHODNIOPOMORSKIE; pyrzycki; powiat
+155. ZACHODNIOPOMORSKIE; Bielice; gmina wiejska
+156. ZACHODNIOPOMORSKIE; Kozielice; gmina wiejska
+157. ZACHODNIOPOMORSKIE; Lipiany; gmina miejsko-wiejska
+158. ZACHODNIOPOMORSKIE; Lipiany; miasto
+159. ZACHODNIOPOMORSKIE; Lipiany; obszar wiejski
+160. ZACHODNIOPOMORSKIE; Przelewice; gmina wiejska
+161. ZACHODNIOPOMORSKIE; Pyrzyce; gmina miejsko-wiejska
+162. ZACHODNIOPOMORSKIE; Pyrzyce; miasto
+163. ZACHODNIOPOMORSKIE; Pyrzyce; obszar wiejski
+164. ZACHODNIOPOMORSKIE; Warnice; gmina wiejska
+165. ZACHODNIOPOMORSKIE; sławieński; powiat
+166. ZACHODNIOPOMORSKIE; Darłowo; gmina miejska
+167. ZACHODNIOPOMORSKIE; Sławno; gmina miejska
+168. ZACHODNIOPOMORSKIE; Darłowo; gmina wiejska
+169. ZACHODNIOPOMORSKIE; Malechowo; gmina wiejska
+170. ZACHODNIOPOMORSKIE; Postomino; gmina wiejska
+171. ZACHODNIOPOMORSKIE; Sławno; gmina wiejska
+172. ZACHODNIOPOMORSKIE; stargardzki; powiat
+173. ZACHODNIOPOMORSKIE; Stargard; gmina miejska
+174. ZACHODNIOPOMORSKIE; Chociwel; gmina miejsko-wiejska
+175. ZACHODNIOPOMORSKIE; Chociwel; miasto
+176. ZACHODNIOPOMORSKIE; Chociwel; obszar wiejski
+177. ZACHODNIOPOMORSKIE; Dobrzany; gmina miejsko-wiejska
+178. ZACHODNIOPOMORSKIE; Dobrzany; miasto
+179. ZACHODNIOPOMORSKIE; Dobrzany; obszar wiejski
+180. ZACHODNIOPOMORSKIE; Dolice; gmina wiejska
+181. ZACHODNIOPOMORSKIE; Ińsko; gmina miejsko-wiejska
+182. ZACHODNIOPOMORSKIE; Ińsko; miasto
+183. ZACHODNIOPOMORSKIE; Ińsko; obszar wiejski
+184. ZACHODNIOPOMORSKIE; Kobylanka; gmina wiejska
+185. ZACHODNIOPOMORSKIE; Marianowo; gmina wiejska
+186. ZACHODNIOPOMORSKIE; Stara Dąbrowa; gmina wiejska
+187. ZACHODNIOPOMORSKIE; Stargard; gmina wiejska
+188. ZACHODNIOPOMORSKIE; Suchań; gmina miejsko-wiejska
+189. ZACHODNIOPOMORSKIE; Suchań; miasto
+190. ZACHODNIOPOMORSKIE; Suchań; obszar wiejski
+191. ZACHODNIOPOMORSKIE; szczecinecki; powiat
+192. ZACHODNIOPOMORSKIE; Szczecinek; gmina miejska
+193. ZACHODNIOPOMORSKIE; Barwice; gmina miejsko-wiejska
+194. ZACHODNIOPOMORSKIE; Barwice; miasto
+195. ZACHODNIOPOMORSKIE; Barwice; obszar wiejski
+196. ZACHODNIOPOMORSKIE; Biały Bór; gmina miejsko-wiejska
+197. ZACHODNIOPOMORSKIE; Biały Bór; miasto
+198. ZACHODNIOPOMORSKIE; Biały Bór; obszar wiejski
+199. ZACHODNIOPOMORSKIE; Borne Sulinowo; gmina miejsko-wiejska
+200. ZACHODNIOPOMORSKIE; Borne Sulinowo; miasto
+201. ZACHODNIOPOMORSKIE; Borne Sulinowo; obszar wiejski
+202. ZACHODNIOPOMORSKIE; Grzmiąca; gmina wiejska
+203. ZACHODNIOPOMORSKIE; Szczecinek; gmina wiejska
+204. ZACHODNIOPOMORSKIE; świdwiński; powiat
+205. ZACHODNIOPOMORSKIE; Świdwin; gmina miejska
+206. ZACHODNIOPOMORSKIE; Brzeżno; gmina wiejska
+207. ZACHODNIOPOMORSKIE; Połczyn-Zdrój; gmina miejsko-wiejska
+208. ZACHODNIOPOMORSKIE; Połczyn-Zdrój; miasto
+209. ZACHODNIOPOMORSKIE; Połczyn-Zdrój; obszar wiejski
+210. ZACHODNIOPOMORSKIE; Rąbino; gmina wiejska
+211. ZACHODNIOPOMORSKIE; Sławoborze; gmina wiejska
+212. ZACHODNIOPOMORSKIE; Świdwin; gmina wiejska
+213. ZACHODNIOPOMORSKIE; wałecki; powiat
+214. ZACHODNIOPOMORSKIE; Wałcz; gmina miejska
+215. ZACHODNIOPOMORSKIE; Człopa; gmina miejsko-wiejska
+216. ZACHODNIOPOMORSKIE; Człopa; miasto
+217. ZACHODNIOPOMORSKIE; Człopa; obszar wiejski
+218. ZACHODNIOPOMORSKIE; Mirosławiec; gmina miejsko-wiejska
+219. ZACHODNIOPOMORSKIE; Mirosławiec; miasto
+220. ZACHODNIOPOMORSKIE; Mirosławiec; obszar wiejski
+221. ZACHODNIOPOMORSKIE; Tuczno; gmina miejsko-wiejska
+222. ZACHODNIOPOMORSKIE; Tuczno; miasto
+223. ZACHODNIOPOMORSKIE; Tuczno; obszar wiejski
+224. ZACHODNIOPOMORSKIE; Wałcz; gmina wiejska
+225. ZACHODNIOPOMORSKIE; łobeski; powiat
+226. ZACHODNIOPOMORSKIE; Dobra; gmina miejsko-wiejska
+227. ZACHODNIOPOMORSKIE; Dobra; miasto
+228. ZACHODNIOPOMORSKIE; Dobra; obszar wiejski
+229. ZACHODNIOPOMORSKIE; Łobez; gmina miejsko-wiejska
+230. ZACHODNIOPOMORSKIE; Łobez; miasto
+231. ZACHODNIOPOMORSKIE; Łobez; obszar wiejski
+232. ZACHODNIOPOMORSKIE; Radowo Małe; gmina wiejska
+233. ZACHODNIOPOMORSKIE; Resko; gmina miejsko-wiejska
+234. ZACHODNIOPOMORSKIE; Resko; miasto
+235. ZACHODNIOPOMORSKIE; Resko; obszar wiejski
+236. ZACHODNIOPOMORSKIE; Węgorzyno; gmina miejsko-wiejska
+237. ZACHODNIOPOMORSKIE; Węgorzyno; miasto
+238. ZACHODNIOPOMORSKIE; Węgorzyno; obszar wiejski
+239. ZACHODNIOPOMORSKIE; Koszalin; miasto na prawach powiatu
+240. ZACHODNIOPOMORSKIE; Koszalin; gmina miejska
+241. ZACHODNIOPOMORSKIE; Szczecin; miasto na prawach powiatu
+242. ZACHODNIOPOMORSKIE; Szczecin; gmina miejska
+243. ZACHODNIOPOMORSKIE; Świnoujście; miasto na prawach powiatu
+244. ZACHODNIOPOMORSKIE; Świnoujście; gmina miejska

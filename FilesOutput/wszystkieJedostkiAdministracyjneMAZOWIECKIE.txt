@@ -1,0 +1,464 @@
+1. MAZOWIECKIE; białobrzeski; powiat
+2. MAZOWIECKIE; Białobrzegi; gmina miejsko-wiejska
+3. MAZOWIECKIE; Białobrzegi; miasto
+4. MAZOWIECKIE; Białobrzegi; obszar wiejski
+5. MAZOWIECKIE; Promna; gmina wiejska
+6. MAZOWIECKIE; Radzanów; gmina wiejska
+7. MAZOWIECKIE; Stara Błotnica; gmina wiejska
+8. MAZOWIECKIE; Stromiec; gmina wiejska
+9. MAZOWIECKIE; Wyśmierzyce; gmina miejsko-wiejska
+10. MAZOWIECKIE; Wyśmierzyce; miasto
+11. MAZOWIECKIE; Wyśmierzyce; obszar wiejski
+12. MAZOWIECKIE; ciechanowski; powiat
+13. MAZOWIECKIE; Ciechanów; gmina miejska
+14. MAZOWIECKIE; Ciechanów; gmina wiejska
+15. MAZOWIECKIE; Glinojeck; gmina miejsko-wiejska
+16. MAZOWIECKIE; Glinojeck; miasto
+17. MAZOWIECKIE; Glinojeck; obszar wiejski
+18. MAZOWIECKIE; Gołymin-Ośrodek; gmina wiejska
+19. MAZOWIECKIE; Grudusk; gmina wiejska
+20. MAZOWIECKIE; Ojrzeń; gmina wiejska
+21. MAZOWIECKIE; Opinogóra Górna; gmina wiejska
+22. MAZOWIECKIE; Regimin; gmina wiejska
+23. MAZOWIECKIE; Sońsk; gmina wiejska
+24. MAZOWIECKIE; garwoliński; powiat
+25. MAZOWIECKIE; Garwolin; gmina miejska
+26. MAZOWIECKIE; Łaskarzew; gmina miejska
+27. MAZOWIECKIE; Borowie; gmina wiejska
+28. MAZOWIECKIE; Garwolin; gmina wiejska
+29. MAZOWIECKIE; Górzno; gmina wiejska
+30. MAZOWIECKIE; Łaskarzew; gmina wiejska
+31. MAZOWIECKIE; Maciejowice; gmina wiejska
+32. MAZOWIECKIE; Miastków Kościelny; gmina wiejska
+33. MAZOWIECKIE; Parysów; gmina wiejska
+34. MAZOWIECKIE; Pilawa; gmina miejsko-wiejska
+35. MAZOWIECKIE; Pilawa; miasto
+36. MAZOWIECKIE; Pilawa; obszar wiejski
+37. MAZOWIECKIE; Sobolew; gmina wiejska
+38. MAZOWIECKIE; Trojanów; gmina wiejska
+39. MAZOWIECKIE; Wilga; gmina wiejska
+40. MAZOWIECKIE; Żelechów; gmina miejsko-wiejska
+41. MAZOWIECKIE; Żelechów; miasto
+42. MAZOWIECKIE; Żelechów; obszar wiejski
+43. MAZOWIECKIE; gostyniński; powiat
+44. MAZOWIECKIE; Gostynin; gmina miejska
+45. MAZOWIECKIE; Gostynin; gmina wiejska
+46. MAZOWIECKIE; Pacyna; gmina wiejska
+47. MAZOWIECKIE; Sanniki; gmina miejsko-wiejska
+48. MAZOWIECKIE; Sanniki; miasto
+49. MAZOWIECKIE; Sanniki; obszar wiejski
+50. MAZOWIECKIE; Szczawin Kościelny; gmina wiejska
+51. MAZOWIECKIE; grodziski; powiat
+52. MAZOWIECKIE; Milanówek; gmina miejska
+53. MAZOWIECKIE; Podkowa Leśna; gmina miejska
+54. MAZOWIECKIE; Baranów; gmina wiejska
+55. MAZOWIECKIE; Grodzisk Mazowiecki; gmina miejsko-wiejska
+56. MAZOWIECKIE; Grodzisk Mazowiecki; miasto
+57. MAZOWIECKIE; Grodzisk Mazowiecki; obszar wiejski
+58. MAZOWIECKIE; Jaktorów; gmina wiejska
+59. MAZOWIECKIE; Żabia Wola; gmina wiejska
+60. MAZOWIECKIE; grójecki; powiat
+61. MAZOWIECKIE; Belsk Duży; gmina wiejska
+62. MAZOWIECKIE; Błędów; gmina wiejska
+63. MAZOWIECKIE; Chynów; gmina wiejska
+64. MAZOWIECKIE; Goszczyn; gmina wiejska
+65. MAZOWIECKIE; Grójec; gmina miejsko-wiejska
+66. MAZOWIECKIE; Grójec; miasto
+67. MAZOWIECKIE; Grójec; obszar wiejski
+68. MAZOWIECKIE; Jasieniec; gmina wiejska
+69. MAZOWIECKIE; Mogielnica; gmina miejsko-wiejska
+70. MAZOWIECKIE; Mogielnica; miasto
+71. MAZOWIECKIE; Mogielnica; obszar wiejski
+72. MAZOWIECKIE; Nowe Miasto nad Pilicą; gmina miejsko-wiejska
+73. MAZOWIECKIE; Nowe Miasto nad Pilicą; miasto
+74. MAZOWIECKIE; Nowe Miasto nad Pilicą; obszar wiejski
+75. MAZOWIECKIE; Pniewy; gmina wiejska
+76. MAZOWIECKIE; Warka; gmina miejsko-wiejska
+77. MAZOWIECKIE; Warka; miasto
+78. MAZOWIECKIE; Warka; obszar wiejski
+79. MAZOWIECKIE; kozienicki; powiat
+80. MAZOWIECKIE; Garbatka-Letnisko; gmina wiejska
+81. MAZOWIECKIE; Głowaczów; gmina wiejska
+82. MAZOWIECKIE; Gniewoszów; gmina wiejska
+83. MAZOWIECKIE; Grabów nad Pilicą; gmina wiejska
+84. MAZOWIECKIE; Kozienice; gmina miejsko-wiejska
+85. MAZOWIECKIE; Kozienice; miasto
+86. MAZOWIECKIE; Kozienice; obszar wiejski
+87. MAZOWIECKIE; Magnuszew; gmina wiejska
+88. MAZOWIECKIE; Sieciechów; gmina wiejska
+89. MAZOWIECKIE; legionowski; powiat
+90. MAZOWIECKIE; Legionowo; gmina miejska
+91. MAZOWIECKIE; Jabłonna; gmina wiejska
+92. MAZOWIECKIE; Nieporęt; gmina wiejska
+93. MAZOWIECKIE; Serock; gmina miejsko-wiejska
+94. MAZOWIECKIE; Serock; miasto
+95. MAZOWIECKIE; Serock; obszar wiejski
+96. MAZOWIECKIE; Wieliszew; gmina wiejska
+97. MAZOWIECKIE; lipski; powiat
+98. MAZOWIECKIE; Chotcza; gmina wiejska
+99. MAZOWIECKIE; Ciepielów; gmina wiejska
+100. MAZOWIECKIE; Lipsko; gmina miejsko-wiejska
+101. MAZOWIECKIE; Lipsko; miasto
+102. MAZOWIECKIE; Lipsko; obszar wiejski
+103. MAZOWIECKIE; Rzeczniów; gmina wiejska
+104. MAZOWIECKIE; Sienno; gmina wiejska
+105. MAZOWIECKIE; Solec nad Wisłą; gmina wiejska
+106. MAZOWIECKIE; łosicki; powiat
+107. MAZOWIECKIE; Huszlew; gmina wiejska
+108. MAZOWIECKIE; Łosice; gmina miejsko-wiejska
+109. MAZOWIECKIE; Łosice; miasto
+110. MAZOWIECKIE; Łosice; obszar wiejski
+111. MAZOWIECKIE; Olszanka; gmina wiejska
+112. MAZOWIECKIE; Platerów; gmina wiejska
+113. MAZOWIECKIE; Sarnaki; gmina wiejska
+114. MAZOWIECKIE; Stara Kornica; gmina wiejska
+115. MAZOWIECKIE; makowski; powiat
+116. MAZOWIECKIE; Maków Mazowiecki; gmina miejska
+117. MAZOWIECKIE; Czerwonka; gmina wiejska
+118. MAZOWIECKIE; Karniewo; gmina wiejska
+119. MAZOWIECKIE; Krasnosielc; gmina wiejska
+120. MAZOWIECKIE; Młynarze; gmina wiejska
+121. MAZOWIECKIE; Płoniawy-Bramura; gmina wiejska
+122. MAZOWIECKIE; Różan; gmina miejsko-wiejska
+123. MAZOWIECKIE; Różan; miasto
+124. MAZOWIECKIE; Różan; obszar wiejski
+125. MAZOWIECKIE; Rzewnie; gmina wiejska
+126. MAZOWIECKIE; Sypniewo; gmina wiejska
+127. MAZOWIECKIE; Szelków; gmina wiejska
+128. MAZOWIECKIE; miński; powiat
+129. MAZOWIECKIE; Mińsk Mazowiecki; gmina miejska
+130. MAZOWIECKIE; Cegłów; gmina wiejska
+131. MAZOWIECKIE; Dębe Wielkie; gmina wiejska
+132. MAZOWIECKIE; Dobre; gmina wiejska
+133. MAZOWIECKIE; Halinów; gmina miejsko-wiejska
+134. MAZOWIECKIE; Halinów; miasto
+135. MAZOWIECKIE; Halinów; obszar wiejski
+136. MAZOWIECKIE; Jakubów; gmina wiejska
+137. MAZOWIECKIE; Kałuszyn; gmina miejsko-wiejska
+138. MAZOWIECKIE; Kałuszyn; miasto
+139. MAZOWIECKIE; Kałuszyn; obszar wiejski
+140. MAZOWIECKIE; Latowicz; gmina wiejska
+141. MAZOWIECKIE; Mińsk Mazowiecki; gmina wiejska
+142. MAZOWIECKIE; Mrozy; gmina miejsko-wiejska
+143. MAZOWIECKIE; Mrozy; miasto
+144. MAZOWIECKIE; Mrozy; obszar wiejski
+145. MAZOWIECKIE; Siennica; gmina wiejska
+146. MAZOWIECKIE; Stanisławów; gmina wiejska
+147. MAZOWIECKIE; Sulejówek; gmina miejska
+148. MAZOWIECKIE; mławski; powiat
+149. MAZOWIECKIE; Mława; gmina miejska
+150. MAZOWIECKIE; Dzierzgowo; gmina wiejska
+151. MAZOWIECKIE; Lipowiec Kościelny; gmina wiejska
+152. MAZOWIECKIE; Radzanów; gmina wiejska
+153. MAZOWIECKIE; Strzegowo; gmina wiejska
+154. MAZOWIECKIE; Stupsk; gmina wiejska
+155. MAZOWIECKIE; Szreńsk; gmina wiejska
+156. MAZOWIECKIE; Szydłowo; gmina wiejska
+157. MAZOWIECKIE; Wieczfnia Kościelna; gmina wiejska
+158. MAZOWIECKIE; Wiśniewo; gmina wiejska
+159. MAZOWIECKIE; nowodworski; powiat
+160. MAZOWIECKIE; Nowy Dwór Mazowiecki; gmina miejska
+161. MAZOWIECKIE; Czosnów; gmina wiejska
+162. MAZOWIECKIE; Leoncin; gmina wiejska
+163. MAZOWIECKIE; Nasielsk; gmina miejsko-wiejska
+164. MAZOWIECKIE; Nasielsk; miasto
+165. MAZOWIECKIE; Nasielsk; obszar wiejski
+166. MAZOWIECKIE; Pomiechówek; gmina wiejska
+167. MAZOWIECKIE; Zakroczym; gmina miejsko-wiejska
+168. MAZOWIECKIE; Zakroczym; miasto
+169. MAZOWIECKIE; Zakroczym; obszar wiejski
+170. MAZOWIECKIE; ostrołęcki; powiat
+171. MAZOWIECKIE; Baranowo; gmina wiejska
+172. MAZOWIECKIE; Czarnia; gmina wiejska
+173. MAZOWIECKIE; Czerwin; gmina wiejska
+174. MAZOWIECKIE; Goworowo; gmina wiejska
+175. MAZOWIECKIE; Kadzidło; gmina wiejska
+176. MAZOWIECKIE; Lelis; gmina wiejska
+177. MAZOWIECKIE; Łyse; gmina wiejska
+178. MAZOWIECKIE; Myszyniec; gmina miejsko-wiejska
+179. MAZOWIECKIE; Myszyniec; miasto
+180. MAZOWIECKIE; Myszyniec; obszar wiejski
+181. MAZOWIECKIE; Olszewo-Borki; gmina wiejska
+182. MAZOWIECKIE; Rzekuń; gmina wiejska
+183. MAZOWIECKIE; Troszyn; gmina wiejska
+184. MAZOWIECKIE; ostrowski; powiat
+185. MAZOWIECKIE; Ostrów Mazowiecka; gmina miejska
+186. MAZOWIECKIE; Andrzejewo; gmina wiejska
+187. MAZOWIECKIE; Boguty-Pianki; gmina wiejska
+188. MAZOWIECKIE; Brok; gmina miejsko-wiejska
+189. MAZOWIECKIE; Brok; miasto
+190. MAZOWIECKIE; Brok; obszar wiejski
+191. MAZOWIECKIE; Małkinia Górna; gmina wiejska
+192. MAZOWIECKIE; Nur; gmina wiejska
+193. MAZOWIECKIE; Ostrów Mazowiecka; gmina wiejska
+194. MAZOWIECKIE; Stary Lubotyń; gmina wiejska
+195. MAZOWIECKIE; Szulborze Wielkie; gmina wiejska
+196. MAZOWIECKIE; Wąsewo; gmina wiejska
+197. MAZOWIECKIE; Zaręby Kościelne; gmina wiejska
+198. MAZOWIECKIE; otwocki; powiat
+199. MAZOWIECKIE; Józefów; gmina miejska
+200. MAZOWIECKIE; Otwock; gmina miejska
+201. MAZOWIECKIE; Celestynów; gmina wiejska
+202. MAZOWIECKIE; Karczew; gmina miejsko-wiejska
+203. MAZOWIECKIE; Karczew; miasto
+204. MAZOWIECKIE; Karczew; obszar wiejski
+205. MAZOWIECKIE; Kołbiel; gmina wiejska
+206. MAZOWIECKIE; Osieck; gmina wiejska
+207. MAZOWIECKIE; Sobienie-Jeziory; gmina wiejska
+208. MAZOWIECKIE; Wiązowna; gmina wiejska
+209. MAZOWIECKIE; piaseczyński; powiat
+210. MAZOWIECKIE; Góra Kalwaria; gmina miejsko-wiejska
+211. MAZOWIECKIE; Góra Kalwaria; miasto
+212. MAZOWIECKIE; Góra Kalwaria; obszar wiejski
+213. MAZOWIECKIE; Konstancin-Jeziorna; gmina miejsko-wiejska
+214. MAZOWIECKIE; Konstancin-Jeziorna; miasto
+215. MAZOWIECKIE; Konstancin-Jeziorna; obszar wiejski
+216. MAZOWIECKIE; Lesznowola; gmina wiejska
+217. MAZOWIECKIE; Piaseczno; gmina miejsko-wiejska
+218. MAZOWIECKIE; Piaseczno; miasto
+219. MAZOWIECKIE; Piaseczno; obszar wiejski
+220. MAZOWIECKIE; Prażmów; gmina wiejska
+221. MAZOWIECKIE; Tarczyn; gmina miejsko-wiejska
+222. MAZOWIECKIE; Tarczyn; miasto
+223. MAZOWIECKIE; Tarczyn; obszar wiejski
+224. MAZOWIECKIE; płocki; powiat
+225. MAZOWIECKIE; Bielsk; gmina wiejska
+226. MAZOWIECKIE; Bodzanów; gmina wiejska
+227. MAZOWIECKIE; Brudzeń Duży; gmina wiejska
+228. MAZOWIECKIE; Bulkowo; gmina wiejska
+229. MAZOWIECKIE; Drobin; gmina miejsko-wiejska
+230. MAZOWIECKIE; Drobin; miasto
+231. MAZOWIECKIE; Drobin; obszar wiejski
+232. MAZOWIECKIE; Gąbin; gmina miejsko-wiejska
+233. MAZOWIECKIE; Gąbin; miasto
+234. MAZOWIECKIE; Gąbin; obszar wiejski
+235. MAZOWIECKIE; Łąck; gmina wiejska
+236. MAZOWIECKIE; Mała Wieś; gmina wiejska
+237. MAZOWIECKIE; Nowy Duninów; gmina wiejska
+238. MAZOWIECKIE; Radzanowo; gmina wiejska
+239. MAZOWIECKIE; Słubice; gmina wiejska
+240. MAZOWIECKIE; Słupno; gmina wiejska
+241. MAZOWIECKIE; Stara Biała; gmina wiejska
+242. MAZOWIECKIE; Staroźreby; gmina wiejska
+243. MAZOWIECKIE; Wyszogród; gmina miejsko-wiejska
+244. MAZOWIECKIE; Wyszogród; miasto
+245. MAZOWIECKIE; Wyszogród; obszar wiejski
+246. MAZOWIECKIE; płoński; powiat
+247. MAZOWIECKIE; Płońsk; gmina miejska
+248. MAZOWIECKIE; Raciąż; gmina miejska
+249. MAZOWIECKIE; Baboszewo; gmina wiejska
+250. MAZOWIECKIE; Czerwińsk nad Wisłą; gmina miejsko-wiejska
+251. MAZOWIECKIE; Czerwińsk nad Wisłą; miasto
+252. MAZOWIECKIE; Czerwińsk nad Wisłą; obszar wiejski
+253. MAZOWIECKIE; Dzierzążnia; gmina wiejska
+254. MAZOWIECKIE; Joniec; gmina wiejska
+255. MAZOWIECKIE; Naruszewo; gmina wiejska
+256. MAZOWIECKIE; Nowe Miasto; gmina wiejska
+257. MAZOWIECKIE; Płońsk; gmina wiejska
+258. MAZOWIECKIE; Raciąż; gmina wiejska
+259. MAZOWIECKIE; Sochocin; gmina wiejska
+260. MAZOWIECKIE; Załuski; gmina wiejska
+261. MAZOWIECKIE; pruszkowski; powiat
+262. MAZOWIECKIE; Piastów; gmina miejska
+263. MAZOWIECKIE; Pruszków; gmina miejska
+264. MAZOWIECKIE; Brwinów; gmina miejsko-wiejska
+265. MAZOWIECKIE; Brwinów; miasto
+266. MAZOWIECKIE; Brwinów; obszar wiejski
+267. MAZOWIECKIE; Michałowice; gmina wiejska
+268. MAZOWIECKIE; Nadarzyn; gmina wiejska
+269. MAZOWIECKIE; Raszyn; gmina wiejska
+270. MAZOWIECKIE; przasnyski; powiat
+271. MAZOWIECKIE; Przasnysz; gmina miejska
+272. MAZOWIECKIE; Chorzele; gmina miejsko-wiejska
+273. MAZOWIECKIE; Chorzele; miasto
+274. MAZOWIECKIE; Chorzele; obszar wiejski
+275. MAZOWIECKIE; Czernice Borowe; gmina wiejska
+276. MAZOWIECKIE; Jednorożec; gmina wiejska
+277. MAZOWIECKIE; Krasne; gmina wiejska
+278. MAZOWIECKIE; Krzynowłoga Mała; gmina wiejska
+279. MAZOWIECKIE; Przasnysz; gmina wiejska
+280. MAZOWIECKIE; przysuski; powiat
+281. MAZOWIECKIE; Borkowice; gmina wiejska
+282. MAZOWIECKIE; Gielniów; gmina wiejska
+283. MAZOWIECKIE; Klwów; gmina wiejska
+284. MAZOWIECKIE; Odrzywół; gmina wiejska
+285. MAZOWIECKIE; Potworów; gmina wiejska
+286. MAZOWIECKIE; Przysucha; gmina miejsko-wiejska
+287. MAZOWIECKIE; Przysucha; miasto
+288. MAZOWIECKIE; Przysucha; obszar wiejski
+289. MAZOWIECKIE; Rusinów; gmina wiejska
+290. MAZOWIECKIE; Wieniawa; gmina wiejska
+291. MAZOWIECKIE; pułtuski; powiat
+292. MAZOWIECKIE; Gzy; gmina wiejska
+293. MAZOWIECKIE; Obryte; gmina wiejska
+294. MAZOWIECKIE; Pokrzywnica; gmina wiejska
+295. MAZOWIECKIE; Pułtusk; gmina miejsko-wiejska
+296. MAZOWIECKIE; Pułtusk; miasto
+297. MAZOWIECKIE; Pułtusk; obszar wiejski
+298. MAZOWIECKIE; Świercze; gmina wiejska
+299. MAZOWIECKIE; Winnica; gmina wiejska
+300. MAZOWIECKIE; Zatory; gmina wiejska
+301. MAZOWIECKIE; radomski; powiat
+302. MAZOWIECKIE; Pionki; gmina miejska
+303. MAZOWIECKIE; Gózd; gmina wiejska
+304. MAZOWIECKIE; Iłża; gmina miejsko-wiejska
+305. MAZOWIECKIE; Iłża; miasto
+306. MAZOWIECKIE; Iłża; obszar wiejski
+307. MAZOWIECKIE; Jastrzębia; gmina wiejska
+308. MAZOWIECKIE; Jedlińsk; gmina wiejska
+309. MAZOWIECKIE; Jedlnia-Letnisko; gmina wiejska
+310. MAZOWIECKIE; Kowala; gmina wiejska
+311. MAZOWIECKIE; Pionki; gmina wiejska
+312. MAZOWIECKIE; Przytyk; gmina wiejska
+313. MAZOWIECKIE; Skaryszew; gmina miejsko-wiejska
+314. MAZOWIECKIE; Skaryszew; miasto
+315. MAZOWIECKIE; Skaryszew; obszar wiejski
+316. MAZOWIECKIE; Wierzbica; gmina wiejska
+317. MAZOWIECKIE; Wolanów; gmina wiejska
+318. MAZOWIECKIE; Zakrzew; gmina wiejska
+319. MAZOWIECKIE; siedlecki; powiat
+320. MAZOWIECKIE; Domanice; gmina wiejska
+321. MAZOWIECKIE; Korczew; gmina wiejska
+322. MAZOWIECKIE; Kotuń; gmina wiejska
+323. MAZOWIECKIE; Mokobody; gmina wiejska
+324. MAZOWIECKIE; Mordy; gmina miejsko-wiejska
+325. MAZOWIECKIE; Mordy; miasto
+326. MAZOWIECKIE; Mordy; obszar wiejski
+327. MAZOWIECKIE; Paprotnia; gmina wiejska
+328. MAZOWIECKIE; Przesmyki; gmina wiejska
+329. MAZOWIECKIE; Siedlce; gmina wiejska
+330. MAZOWIECKIE; Skórzec; gmina wiejska
+331. MAZOWIECKIE; Suchożebry; gmina wiejska
+332. MAZOWIECKIE; Wiśniew; gmina wiejska
+333. MAZOWIECKIE; Wodynie; gmina wiejska
+334. MAZOWIECKIE; Zbuczyn; gmina wiejska
+335. MAZOWIECKIE; sierpecki; powiat
+336. MAZOWIECKIE; Sierpc; gmina miejska
+337. MAZOWIECKIE; Gozdowo; gmina wiejska
+338. MAZOWIECKIE; Mochowo; gmina wiejska
+339. MAZOWIECKIE; Rościszewo; gmina wiejska
+340. MAZOWIECKIE; Sierpc; gmina wiejska
+341. MAZOWIECKIE; Szczutowo; gmina wiejska
+342. MAZOWIECKIE; Zawidz; gmina wiejska
+343. MAZOWIECKIE; sochaczewski; powiat
+344. MAZOWIECKIE; Sochaczew; gmina miejska
+345. MAZOWIECKIE; Brochów; gmina wiejska
+346. MAZOWIECKIE; Iłów; gmina wiejska
+347. MAZOWIECKIE; Młodzieszyn; gmina wiejska
+348. MAZOWIECKIE; Nowa Sucha; gmina wiejska
+349. MAZOWIECKIE; Rybno; gmina wiejska
+350. MAZOWIECKIE; Sochaczew; gmina wiejska
+351. MAZOWIECKIE; Teresin; gmina wiejska
+352. MAZOWIECKIE; sokołowski; powiat
+353. MAZOWIECKIE; Sokołów Podlaski; gmina miejska
+354. MAZOWIECKIE; Bielany; gmina wiejska
+355. MAZOWIECKIE; Ceranów; gmina wiejska
+356. MAZOWIECKIE; Jabłonna Lacka; gmina wiejska
+357. MAZOWIECKIE; Kosów Lacki; gmina miejsko-wiejska
+358. MAZOWIECKIE; Kosów Lacki; miasto
+359. MAZOWIECKIE; Kosów Lacki; obszar wiejski
+360. MAZOWIECKIE; Repki; gmina wiejska
+361. MAZOWIECKIE; Sabnie; gmina wiejska
+362. MAZOWIECKIE; Sokołów Podlaski; gmina wiejska
+363. MAZOWIECKIE; Sterdyń; gmina wiejska
+364. MAZOWIECKIE; szydłowiecki; powiat
+365. MAZOWIECKIE; Chlewiska; gmina wiejska
+366. MAZOWIECKIE; Jastrząb; gmina wiejska
+367. MAZOWIECKIE; Mirów; gmina wiejska
+368. MAZOWIECKIE; Orońsko; gmina wiejska
+369. MAZOWIECKIE; Szydłowiec; gmina miejsko-wiejska
+370. MAZOWIECKIE; Szydłowiec; miasto
+371. MAZOWIECKIE; Szydłowiec; obszar wiejski
+372. MAZOWIECKIE; warszawski zachodni; powiat
+373. MAZOWIECKIE; Błonie; gmina miejsko-wiejska
+374. MAZOWIECKIE; Błonie; miasto
+375. MAZOWIECKIE; Błonie; obszar wiejski
+376. MAZOWIECKIE; Izabelin; gmina wiejska
+377. MAZOWIECKIE; Kampinos; gmina wiejska
+378. MAZOWIECKIE; Leszno; gmina wiejska
+379. MAZOWIECKIE; Łomianki; gmina miejsko-wiejska
+380. MAZOWIECKIE; Łomianki; miasto
+381. MAZOWIECKIE; Łomianki; obszar wiejski
+382. MAZOWIECKIE; Ożarów Mazowiecki; gmina miejsko-wiejska
+383. MAZOWIECKIE; Ożarów Mazowiecki; miasto
+384. MAZOWIECKIE; Ożarów Mazowiecki; obszar wiejski
+385. MAZOWIECKIE; Stare Babice; gmina wiejska
+386. MAZOWIECKIE; węgrowski; powiat
+387. MAZOWIECKIE; Węgrów; gmina miejska
+388. MAZOWIECKIE; Grębków; gmina wiejska
+389. MAZOWIECKIE; Korytnica; gmina wiejska
+390. MAZOWIECKIE; Liw; gmina wiejska
+391. MAZOWIECKIE; Łochów; gmina miejsko-wiejska
+392. MAZOWIECKIE; Łochów; miasto
+393. MAZOWIECKIE; Łochów; obszar wiejski
+394. MAZOWIECKIE; Miedzna; gmina wiejska
+395. MAZOWIECKIE; Sadowne; gmina wiejska
+396. MAZOWIECKIE; Stoczek; gmina wiejska
+397. MAZOWIECKIE; Wierzbno; gmina wiejska
+398. MAZOWIECKIE; wołomiński; powiat
+399. MAZOWIECKIE; Kobyłka; gmina miejska
+400. MAZOWIECKIE; Marki; gmina miejska
+401. MAZOWIECKIE; Ząbki; gmina miejska
+402. MAZOWIECKIE; Zielonka; gmina miejska
+403. MAZOWIECKIE; Dąbrówka; gmina wiejska
+404. MAZOWIECKIE; Jadów; gmina wiejska
+405. MAZOWIECKIE; Klembów; gmina wiejska
+406. MAZOWIECKIE; Poświętne; gmina wiejska
+407. MAZOWIECKIE; Radzymin; gmina miejsko-wiejska
+408. MAZOWIECKIE; Radzymin; miasto
+409. MAZOWIECKIE; Radzymin; obszar wiejski
+410. MAZOWIECKIE; Strachówka; gmina wiejska
+411. MAZOWIECKIE; Tłuszcz; gmina miejsko-wiejska
+412. MAZOWIECKIE; Tłuszcz; miasto
+413. MAZOWIECKIE; Tłuszcz; obszar wiejski
+414. MAZOWIECKIE; Wołomin; gmina miejsko-wiejska
+415. MAZOWIECKIE; Wołomin; miasto
+416. MAZOWIECKIE; Wołomin; obszar wiejski
+417. MAZOWIECKIE; wyszkowski; powiat
+418. MAZOWIECKIE; Brańszczyk; gmina wiejska
+419. MAZOWIECKIE; Długosiodło; gmina wiejska
+420. MAZOWIECKIE; Rząśnik; gmina wiejska
+421. MAZOWIECKIE; Somianka; gmina wiejska
+422. MAZOWIECKIE; Wyszków; gmina miejsko-wiejska
+423. MAZOWIECKIE; Wyszków; miasto
+424. MAZOWIECKIE; Wyszków; obszar wiejski
+425. MAZOWIECKIE; Zabrodzie; gmina wiejska
+426. MAZOWIECKIE; zwoleński; powiat
+427. MAZOWIECKIE; Kazanów; gmina wiejska
+428. MAZOWIECKIE; Policzna; gmina wiejska
+429. MAZOWIECKIE; Przyłęk; gmina wiejska
+430. MAZOWIECKIE; Tczów; gmina wiejska
+431. MAZOWIECKIE; Zwoleń; gmina miejsko-wiejska
+432. MAZOWIECKIE; Zwoleń; miasto
+433. MAZOWIECKIE; Zwoleń; obszar wiejski
+434. MAZOWIECKIE; żuromiński; powiat
+435. MAZOWIECKIE; Bieżuń; gmina miejsko-wiejska
+436. MAZOWIECKIE; Bieżuń; miasto
+437. MAZOWIECKIE; Bieżuń; obszar wiejski
+438. MAZOWIECKIE; Kuczbork-Osada; gmina wiejska
+439. MAZOWIECKIE; Lubowidz; gmina miejsko-wiejska
+440. MAZOWIECKIE; Lubowidz; miasto
+441. MAZOWIECKIE; Lubowidz; obszar wiejski
+442. MAZOWIECKIE; Lutocin; gmina wiejska
+443. MAZOWIECKIE; Siemiątkowo; gmina wiejska
+444. MAZOWIECKIE; Żuromin; gmina miejsko-wiejska
+445. MAZOWIECKIE; Żuromin; miasto
+446. MAZOWIECKIE; Żuromin; obszar wiejski
+447. MAZOWIECKIE; żyrardowski; powiat
+448. MAZOWIECKIE; Żyrardów; gmina miejska
+449. MAZOWIECKIE; Mszczonów; gmina miejsko-wiejska
+450. MAZOWIECKIE; Mszczonów; miasto
+451. MAZOWIECKIE; Mszczonów; obszar wiejski
+452. MAZOWIECKIE; Puszcza Mariańska; gmina wiejska
+453. MAZOWIECKIE; Radziejowice; gmina wiejska
+454. MAZOWIECKIE; Wiskitki; gmina wiejska
+455. MAZOWIECKIE; Ostrołęka; miasto na prawach powiatu
+456. MAZOWIECKIE; Ostrołęka; gmina miejska
+457. MAZOWIECKIE; Płock; miasto na prawach powiatu
+458. MAZOWIECKIE; Płock; gmina miejska
+459. MAZOWIECKIE; Radom; miasto na prawach powiatu
+460. MAZOWIECKIE; Radom; gmina miejska
+461. MAZOWIECKIE; Siedlce; miasto na prawach powiatu
+462. MAZOWIECKIE; Siedlce; gmina miejska
+463. MAZOWIECKIE; Warszawa; miasto stołeczne
+464. MAZOWIECKIE; Warszawa; na prawach powiatu

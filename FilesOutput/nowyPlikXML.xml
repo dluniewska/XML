@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><wojewodztwa>
+    <wojewodztwo>
+        <nazwa>DOLNOŚLĄSKIE</nazwa>
+        <stolica> Wrocław </stolica>
+        <powierzchnia>19 946,7</powierzchnia>
+        <liczba_ludnosci>2 900 163</liczba_ludnosci>
+    </wojewodztwo>
+    <wojewodztwo>
+        <nazwa>KUJAWSKO-POMORSKIE</nazwa>
+        <stolica> Bydgoszcz </stolica>
+        <powierzchnia>17 971,34</powierzchnia>
+        <liczba_ludnosci>2 072 373</liczba_ludnosci>
+    </wojewodztwo>
+    <wojewodztwo>
+        <nazwa>LUBELSKIE</nazwa>
+        <stolica> Lublin </stolica>
+        <powierzchnia>25 122,46</powierzchnia>
+        <liczba_ludnosci>2 108 270</liczba_ludnosci>
+    </wojewodztwo>
+    <wojewodztwo>
+        <nazwa>LUBUSKIE</nazwa>
+        <stolica> Gorzów Wielkopolski </stolica>
+        <powierzchnia>13 987,93</powierzchnia>
+        <liczba_ludnosci>1 010 177</liczba_ludnosci>
+    </wojewodztwo>
+    <wojewodztwo>
+        <nazwa>ŁÓDZKIE</nazwa>
+        <stolica> Łódź </stolica>
+        <powierzchnia>18 218,95</powierzchnia>
+        <liczba_ludnosci>2 448 713</liczba_ludnosci>
+    </wojewodztwo>
+    <wojewodztwo>
+        <nazwa>MAŁOPOLSKIE</nazwa>
+        <stolica> Kraków </stolica>
+        <powierzchnia>15 183</powierzchnia>
+        <liczba_ludnosci>3 413 931</liczba_ludnosci>
+    </wojewodztwo>
+    <wojewodztwo>
+        <nazwa>MAZOWIECKIE</nazwa>
+        <stolica> Warszawa </stolica>
+        <powierzchnia>35 558</powierzchnia>
+        <liczba_ludnosci>5 428 031</liczba_ludnosci>
+    </wojewodztwo>
+    <wojewodztwo>
+        <nazwa>OPOLSKIE</nazwa>
+        <stolica> Opole </stolica>
+        <powierzchnia>9412</powierzchnia>
+        <liczba_ludnosci>980 771</liczba_ludnosci>
+    </wojewodztwo>
+    <wojewodztwo>
+        <nazwa>PODKARPACKIE</nazwa>
+        <stolica> Rzeszów </stolica>
+        <powierzchnia>17 846</powierzchnia>
+        <liczba_ludnosci>2 125 901</liczba_ludnosci>
+    </wojewodztwo>
+    <wojewodztwo>
+        <nazwa>PODLASKIE</nazwa>
+        <stolica> Białystok </stolica>
+        <powierzchnia>20 187</powierzchnia>
+        <liczba_ludnosci>1 176 576</liczba_ludnosci>
+    </wojewodztwo>
+    <wojewodztwo>
+        <nazwa>POMORSKIE</nazwa>
+        <stolica> Gdańsk </stolica>
+        <powierzchnia>18 321</powierzchnia>
+        <liczba_ludnosci>2 346 717</liczba_ludnosci>
+    </wojewodztwo>
+    <wojewodztwo>
+        <nazwa>ŚLĄSKIE</nazwa>
+        <stolica> Katowice </stolica>
+        <powierzchnia>12 333</powierzchnia>
+        <liczba_ludnosci>4 508 078</liczba_ludnosci>
+    </wojewodztwo>
+    <wojewodztwo>
+        <nazwa>ŚWIĘTOKRZYSKIE</nazwa>
+        <stolica> Kielce </stolica>
+        <powierzchnia>11 711</powierzchnia>
+        <liczba_ludnosci>1 230 044</liczba_ludnosci>
+    </wojewodztwo>
+    <wojewodztwo>
+        <nazwa>WARMIŃSKO-MAZURSKIE</nazwa>
+        <stolica> Olsztyn </stolica>
+        <powierzchnia>24 173</powierzchnia>
+        <liczba_ludnosci>1 420 514</liczba_ludnosci>
+    </wojewodztwo>
+    <wojewodztwo>
+        <nazwa>WIELKOPOLSKIE</nazwa>
+        <stolica> Poznań </stolica>
+        <powierzchnia>29 826</powierzchnia>
+        <liczba_ludnosci>3 500 361</liczba_ludnosci>
+    </wojewodztwo>
+    <wojewodztwo>
+        <nazwa>ZACHODNIOPOMORSKIE</nazwa>
+        <stolica> Szczecin </stolica>
+        <powierzchnia>22 897</powierzchnia>
+        <liczba_ludnosci>1 693 219</liczba_ludnosci>
+    </wojewodztwo>
+</wojewodztwa>

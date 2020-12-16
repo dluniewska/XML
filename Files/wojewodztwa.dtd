@@ -1,0 +1,20 @@
+<!ELEMENT wojewodztwa (catalog)>
+<!ELEMENT catalog (wojewodztwo*)>
+<!ATTLIST catalog nazwa CDATA #REQUIRED>
+<!ATTLIST catalog type CDATA #REQUIRED>
+<!ATTLIST catalog date CDATA #REQUIRED>
+<!ELEMENT wojewodztwo (stolica, TERYT, powierzchnia, populacja, podzial_adm)>
+<!ATTLIST wojewodztwo name CDATA #REQUIRED>
+<!ELEMENT stolica (#PCDATA)>
+<!ELEMENT TERYT (#PCDATA)>
+<!ELEMENT powierzchnia (#PCDATA)>
+<!ATTLIST powierzchnia jednostka CDATA #FIXED "km2">
+<!ELEMENT populacja (liczba_ludnosci, gestosc)>
+<!ELEMENT liczba_ludnosci (#PCDATA)>
+<!ELEMENT gestosc (#PCDATA)>
+<!ATTLIST gestosc jednostka CDATA #FIXED "os..km2">
+<!ELEMENT podzial_adm (row*)>
+<!ELEMENT row (NAZWA, NAZWA_DOD+, dzielnica*)>
+<!ELEMENT NAZWA (#PCDATA)>
+<!ELEMENT NAZWA_DOD (#PCDATA)>
+<!ELEMENT dzielnica (#PCDATA)>
